@@ -1,15 +1,17 @@
-Bienvenidos a mi portafolio
+Welcome to my portfolio
 
-Soy Hugo Rodriguez, me encantan los videojuegos y decidi dedicarme a desarrollar dentro de este ambito con desafiantes proyectos.
+I'm Hugo Rodriguez, I love video games and decided to dedicate myself to developing within this field through challenging projects.
 
-Soy Tecnólogo en Desarrollo de Software del Centro de Enseñanza Tecnica Industrial, actualmente estoy cursando mi ultimo semestre de Ingeniería en Videojuegos en el Centro Universitario de la Costa UDG.
+I studied a Bachelor's in Videogame Engineering, in Puerto Vallarta, Mexico.
 
-En el transcurso de mi formación he desarrollado 4 proyectos, cada uno de diferente categoria:
+Throughout my training I have developed 4 projects in Spanish, each in a different category:
 
-Not An Iron Maiden, un roguelike de plataformas, este es el proyecto mas reciente en el que he trabajado, se trata de una demo muy completa con sistema de coleccionables, creación e implementación de mejoras, variedad de enemigos y seleccion de personajes unicos, en este proyecto me dedique completamente a la programación, ademas de diseños de interfaces, creación de animaciones e implementación de sonido.
+Not An Iron Maiden, a platformer roguelike, is the most recent project I've worked on. It's a very complete demo featuring a collectibles system, creation and implementation of upgrades, a variety of enemies, and unique character selection. On this project I focused entirely on programming, as well as game and interface design, and sound/sprites implementation.
 
-Profit Clicker, un clicker sobre economia con la caracteristica unica que tiene implementado un login de usuarios que se almacenan en una base de datos mediante phpmyadmin, trabaje completamente en la programación, implementación de animaciones y diseño de interfaces.
+Profit Clicker, an economy-based clicker with the unique feature of a user login system stored in a database via phpMyAdmin. I worked entirely on the programming, animation implementation, and interface design.
 
-El Heroe del dios del Poder, mi primer proyecto donde tuve mis primeras experiencias con Unity, cabe recalcar que este proyecto lo hice completamente yo mismo mientras que en los demas fue junto a un equipo de desarrollo, se trata de un RPG con puzzles interactivos, existe un mundo semi-abierto con misiones secundarias, coleccionables, sistema de logros, uso de objetos en el mundo y en los puzzles.
+The rising of the god of power, my first project and my first experience with Unity. It's worth mention that this project was made entirely by myself, while the others were done alongside a development team. It's an RPG with interactive puzzles, featuring a semi-open world with side quests, collectibles, an achievement system, and the use of objects both in the world and in the puzzles.
 
-Sunnyland, un juego plataformero compuesto solo de 3 niveles, este proyecto es peculiar ya que fue trabajado individualmente durante el semestre, es decir, que mis compañeros de equipo programaron y diseñaron sus niveles, en este caso los niveles 1 y 2, mientras que el 3 esta hecho por mi, en este se encuentran checkpoints, recolección de objetos que recuperan la salud del jugador y un jefe final todo esto programado por mi.
+Sunnyland, a platformer made up of just 3 levels. This project is unique because it was worked on individually during the semester — meaning my teammates programmed and designed their own levels (levels 1 and 2), while level 3 was made entirely by me. It includes checkpoints, collectible items that restore the player's health, and a final boss, all programmed by me.
+
+This are the builds of the projects.
